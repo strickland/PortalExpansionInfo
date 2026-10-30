@@ -1,0 +1,7 @@
+## Interface: 120000, 120001, 120005, 120007
+## Title: Portal Expansion Info
+## Notes: Adds the expansion name to city portal tooltips.
+## Author: Strickland/Pawnzee
+## Version: 1.0.0
+
+PortalExpansionInfo.lua
