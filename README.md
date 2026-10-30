@@ -1,0 +1,3 @@
+A lightweight addon which displays the expansion name underneath every portal in world of warcraft....
+
+I first created this for myself, as I was annoyed not knowing where this portal would take me. As little as I play this game I couldn't memorize cities name or which expansion they're from....so this made life much easier for me.
